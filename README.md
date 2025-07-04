@@ -19,7 +19,7 @@ FitAI is an intelligent, personalized fitness assistant that helps users create 
 
 1. Clone this repository:
 ```bash
-git clone 
+git clone https://github.com/psps16/fitness_ai.git
 cd fitness_ai
 ```
 
